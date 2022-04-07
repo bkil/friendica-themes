@@ -124,7 +124,7 @@ Not longer supported user-themes … maybe usable, maybe not.
 
 ![freehaven theme](https://github.com/bkil/fthemes/raw/master/freehaven/screenshot.jpg)
 
-* Theme from https://free-haven.org (404)
+* Theme from [https://web.archive.org/web/20111025220325/http://free-haven.org/status/](https://free-haven.org)
 * Partly cloudy with a chance of FREEDOM!
 * supports Smarty3
 * on github here:
