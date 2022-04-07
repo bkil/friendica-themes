@@ -1,0 +1,51 @@
+body {
+  background-color: #04334c !important;
+}
+.dropdown-menu, .menu-popup, #content, aside {
+  background-color: #1872a2 !important;
+  border-radius: 5px;
+}
+.navbar-header, .navbar-collapse, .navbar-nav {
+  background-color: #ccde00;
+  background-image: -moz-linear-gradient(top, #e8fc0d, #ccde00);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#e8fc0d), to(#ccde00));
+  background-image: -webkit-linear-gradient(top, #1872a2, #1a597a);
+  background-image: -o-linear-gradient(top, #1872a2, #1a597a);
+  background-image: linear-gradient(to bottom, #1872a2, #1a597a);
+  background-repeat: repeat-x;
+  border-color: #252525;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe387ae', endColorstr='#ffccde00', GradientType=0);
+}
+#jot #jot-tools li.perms a.lock {
+    border: #1872a2;
+}
+nav .nav-notify {
+    background-color: #a00;
+}
+#jot #jot-tools, #jot #jot-tools, #jot #jot-tools li, #jot #jot-tools li a, #jot #jot-tools li.perms a.lock {
+    background-color: #ffc019;
+    color: #1872a2;
+    border-bottom: #1872a2;
+}
+a:link, a:visited, .fakelink {
+    color: #ffc019 !important;
+}
+a:active, a:hover, .fakelink:hover {
+    color: #444 !important;
+}
+.wall-item-container a:link,
+.wall-item-container a:visited,
+#jot-tools > li > a:link, 
+#jot-tools > li > a:visited {
+  color: #1872a2 !important;
+}
+.tabs a:link, .tabs a:visited {
+    color: #de7900 !important;
+}
+.tab .active {
+    border-bottom: #444;
+}
+.shashape.lock-closed {
+  color: #a00 !important;
+  font-weight: bold;
+}

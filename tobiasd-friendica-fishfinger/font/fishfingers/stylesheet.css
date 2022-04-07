@@ -1,0 +1,10 @@
+/*  Fishfingers
+ */
+
+@font-face {
+    font-family: 'Ff';
+    src: local('FISHfingers'), url('Fishfingers.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
