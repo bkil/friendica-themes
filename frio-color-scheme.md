@@ -4,6 +4,8 @@ The [Frio](official.md#Frio) theme allows users to set a background image and ch
 
 You can copy them into your settings (User Settings → Display → Custom Theme Settings.
 
+Available schemes: light, dark, black.
+
 ## Adwaita
 
 By [Fabio](https://social.gl-como.it/profile/fabrixxm)
